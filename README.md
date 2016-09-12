@@ -3,7 +3,7 @@ use-root-path
 
 Enables root-based require statements in node.js.
 
-This module is based on [fabmos'](https://www.npmjs.com/~fabmos) wonderful node.js helper named [rootpath](https://www.npmjs.com/package/rootpath). This version is a tiny bit cleaner to use, slightly more descriptive, and involves less code behind the scenes. Like the original, this version works with your existing local and global modules. All props to [fabmos](https://www.npmjs.com/~fabmos)!
+This module is based on [fabmos'](https://www.npmjs.com/~fabmos) wonderful node.js helper named [rootpath](https://www.npmjs.com/package/rootpath). This version is just a tiny bit cleaner to use, slightly more descriptive, and involves less code behind the scenes. Like the original, this version works with your existing local and global modules. All props to [fabmos](https://www.npmjs.com/~fabmos)!
 
 
 Install
