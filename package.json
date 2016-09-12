@@ -1,0 +1,17 @@
+{
+  "name": "use-rootpath",
+  "main": "./index.js",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": "https://github.com/wdrol/use-root-path",
+  "description": "Enables root-based require statements in node.js.",
+  "keywords": [
+    "root",
+    "require",
+    "root-path",
+    "root-based",
+    "require path",
+    "require absolute path"
+  ],
+  "author": "Bill Drol <billdrol64@gmail.com> (http://billdrol.com/)"
+}
